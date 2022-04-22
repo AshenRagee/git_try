@@ -1,3 +1,3 @@
-# GIT and GITHUB Course 
+# GIT and GITHUB try
 
-crash course for git 
+git git git)
